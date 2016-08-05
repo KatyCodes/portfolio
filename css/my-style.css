@@ -24,7 +24,7 @@ background-image: url("../img/photo4.jpg")
   float: right;
   max-height:500px;
   padding: 20px;
-  border: 20px solid white;
+  border: 20px solid #5FC4AB;
 }
 
 .navbar{
@@ -45,9 +45,10 @@ h1 {
 
 .col-sm-4 {
   border: 2px solid black!important;
-  min-height: 200px!important;
+  min-height: 400px!important;
   text-align: center;
   padding: 40px;
+  font-size: 150%;
 }
 
 .row {
@@ -60,3 +61,20 @@ h1 {
 #home.active, #contract.active {
   background-color:blue;
 }
+
+.glyphicon {
+  padding: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+li {
+  font-size: 16px;
+  }
+
+  h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
