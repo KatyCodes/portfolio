@@ -1,7 +1,18 @@
 #profile {
   max-height: 700px;
   padding: 50px;
+}
 
+#photo5 {
+  max-height: 700px;
+  min-width: 700px;
+  padding: 50px;
+}
+
+#photo6 {
+  max-height: 700px;
+  min-width: 700px;
+  padding: 50px;
 }
 
 h1 img {
@@ -16,7 +27,7 @@ background-image: url("../img/photo4.jpg")
 
 .jumbotron {
   margin: 20px;
-  background-image: url("../img/photo3.jpg")
+  background-image: url("../img/photo4.jpg")
 }
 
 
@@ -67,7 +78,8 @@ h1 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 17px;
+
 }
 
 li {
@@ -78,3 +90,5 @@ li {
     text-align: center;
     text-decoration: underline;
   }
+
+  
