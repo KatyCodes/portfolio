@@ -29,4 +29,4 @@ _HTML, CSS, Bootstrap_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2016 **_{Katy Henning}_**
+Copyright (c) 2016 **_Katy Henning_**
