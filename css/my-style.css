@@ -6,17 +6,28 @@ h1 img {
 }
 
 .jumbotron {
-  background: linear-gradient(white,grey)!important;
+  background: linear-gradient(#5FC4AB,#EE3C30)!important;
   margin: 20px;
 }
 
-.container {
-  background: linear-gradient(grey,white)!important;
-}
 
 #img2 {
   float: right;
   max-height:500px;
   padding: 20px;
-  border: 20px solid white!important;
+  border: 20px solid white;
+}
+
+.navbar {
+  padding: 20px;
+  background: linear-gradient(to right,#FBD727,#B8D432,#5FC4AB,#EE3C30,#EF6A57)!important;
+  font-family: monospace;
+}
+
+h1 {
+  font-family:monospace!important;
+}
+
+.container {
+  font-family: monospace;
 }
