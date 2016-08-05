@@ -1,12 +1,18 @@
+
+
 h1 img {
   border: 2px solid white;
   max-height: 600px;
   padding: 2px;
 }
 
+body {
+background-image: url("../img/photo3.jpg")
+}
+
 .jumbotron {
-  background: linear-gradient(#5FC4AB,#EE3C30)!important;
   margin: 20px;
+  background-color: white!important;
 }
 
 
@@ -30,6 +36,7 @@ h1 {
 .container {
   font-family: monospace;
   min-width: 1500px;
+
 }
 
 .col-sm-4 {
@@ -40,10 +47,5 @@ h1 {
 .row {
   padding: 20px;
 }
-
 .navbar .nav > li > a {
   background-color: #FBD727;}
-
-.active {
-  background-color: blue;
-}
