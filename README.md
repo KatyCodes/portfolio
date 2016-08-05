@@ -1,12 +1,12 @@
-# _{My Portfolio}_
+# _My Portfolio_
 
-#### _{This is a website for my portfolio}, {August 5th, 2016}_
+#### _This is a website for my portfolio, August 5th, 2016_
 
-#### By _**{Katy Henning}**_
+#### By _**Katy Henning**_
 
 ## Description
 
-_{This portfolio will include some of my best coding and links to the websites that I have built. I will continue to add to this portfolio as I improve my coding}_
+_This portfolio will include some of my best coding and links to the websites that I have built. I will continue to add to this portfolio as I improve my coding_
 
 ## Setup/Installation Requirements
 
@@ -23,10 +23,10 @@ _If you have questions please contact me directly at katyannhenning@gmail.com_
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap}_
+_HTML, CSS, Bootstrap_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
 Copyright (c) 2016 **_{Katy Henning}_**
