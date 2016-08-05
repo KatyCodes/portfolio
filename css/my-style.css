@@ -1,4 +1,8 @@
+#profile {
+  max-height: 700px;
+  padding: 50px;
 
+}
 
 h1 img {
   border: 2px solid white;
@@ -7,12 +11,12 @@ h1 img {
 }
 
 body {
-background-image: url("../img/photo3.jpg")
+background-image: url("../img/photo4.jpg")
 }
 
 .jumbotron {
   margin: 20px;
-  background-color: white!important;
+  background-image: url("../img/photo3.jpg")
 }
 
 
@@ -25,7 +29,7 @@ background-image: url("../img/photo3.jpg")
 
 .navbar{
   padding: 20px;
-  background: linear-gradient(to right,#FBD727,#B8D432,#5FC4AB,#EE3C30,#EF6A57)!important;
+  background: linear-gradient(to right,#B8D432,#5FC4AB,#EE3C30,#EF6A57)!important;
   font-family: monospace;
 }
 
@@ -33,19 +37,26 @@ h1 {
   font-family:monospace!important;
 }
 
-.container {
+.container-fluid {
   font-family: monospace;
-  min-width: 1500px;
+  max-width: 1500px;
 
 }
 
 .col-sm-4 {
   border: 2px solid black!important;
   min-height: 200px!important;
+  text-align: center;
+  padding: 40px;
 }
 
 .row {
   padding: 20px;
 }
-.navbar .nav > li > a {
-  background-color: #FBD727;}
+.navbar .nav li a {
+  background-color: #FBD727;
+  }
+
+#home.active, #contract.active {
+  background-color:blue;
+}
