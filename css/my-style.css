@@ -1,4 +1,22 @@
 h1 img {
-  border: 2px solid black;
-  max-height: 400px;
+  border: 2px solid white;
+  max-height: 600px;
+  padding: 2px;
+
+}
+
+.jumbotron {
+  background: linear-gradient(white,grey)!important;
+  margin: 20px;
+}
+
+.container {
+  background: linear-gradient(grey,white)!important;
+}
+
+#img2 {
+  float: right;
+  max-height:500px;
+  padding: 20px;
+  border: 20px solid white!important;
 }
