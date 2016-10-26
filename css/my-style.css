@@ -58,6 +58,11 @@ h1 {
   font-size: 150%;
 }
 
+.col-sm-4:hover {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .row {
   padding: 20px;
 }
